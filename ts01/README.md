@@ -10,8 +10,8 @@ yarn add crypto-js
 
 # TODO GOAL && Algorithm
 
-- [] make node TS env
-- [] finished code
+- [ ] make node TS env
+- [ ] finished code
 
 # basic setting
 
