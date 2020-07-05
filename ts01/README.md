@@ -8,6 +8,11 @@ yarn add tsc-watch --dev
 yarn add crypto-js
 ```
 
+# TODO GOAL && Algorithm
+
+- [] make node TS env
+- [] finished code
+
 # basic setting
 
 ```ts
