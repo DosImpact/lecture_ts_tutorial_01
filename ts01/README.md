@@ -90,26 +90,7 @@ add file named tsconfig.json complie configuration to js
 
 # TS -
 
-- ?
-
-```ts
-const name = "Nicloas",
-  age = 24,
-  gender = "male";
-
-const sayHi = (name, age, gender?) => {
-  console.log(`Hello ${name}, you are ${age}, you are a ${gender}`);
-};
-
-/*
-  if js it can be running with only 2 args , gender is undefined
-  ? make overloading functions
- */
-sayHi(name, age);
-
-export {};
-```
-
+- ? , not required
 - arg,return type
 
 ```ts
