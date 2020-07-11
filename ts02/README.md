@@ -36,9 +36,10 @@ const plus = (a,b) => a+b // not Allow
 - yarn install styled-components
 - yarn install @types/styled-components
 
-- if you install normal js library, there is no type definition. so plus install @types/<libary name> ( hope someone make typeDef)
+- if you install normal js library, there is no type definition. so additionally install @types/<libary name> ( hope someone make @types/ modules)
 
 - if somelibray does have @types/, go to tsconfig : "noImplicitAny": true
+- then, you can use that libaray with type freeees~
 
 # TS classComponents
 
